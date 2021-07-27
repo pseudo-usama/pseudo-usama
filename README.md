@@ -17,4 +17,4 @@ In the past I've worked in these technologies.
    - MySQL
    - SQL Server
 
-Other than development I really love to talk about `astronomy`, `quantum mechanics` & `quantum computing` & other sciency stuff.
+Other than development I really love to talk about `astronomy`, `quantum mechanics`, `quantum computing` & other sciency stuff.
