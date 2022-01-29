@@ -89,11 +89,14 @@ You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-bl
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pseudo-usama&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-usama)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pseudo-usama&theme=dark&background=000000" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-usama&langs_count=8&theme=github_dark&layout=compact" />
+</div>
 
 <!--
  Source: https://www.sitepoint.com/github-profile-readme/
  Icons: https://github.com/devicons/devicon/tree/master/icons
+ Stats: https://github.com/anuraghazra/github-readme-stats
+ Streaks: https://github.com/DenverCoder1/github-readme-streak-stats
 -->
