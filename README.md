@@ -83,9 +83,15 @@ You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-bl
 </div>
 
 
+<!-- Stats -->
 
+---
 
+### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pseudo-usama&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-usama)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
  Source: https://www.sitepoint.com/github-profile-readme/
