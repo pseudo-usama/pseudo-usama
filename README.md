@@ -32,7 +32,7 @@
 ---
 
 ## :man_student: About Me :
-I'm Data science student at University of the Punjab from Pakistan. I'm interested in machine learning and web development technologies.
+I'm Data Science student at PUCIT Lahore, Pakistan. I'm interested in machine learning and web development technologies.
 ### Contact me:
 You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usama-iftikhar-butt/) or mail me at [pseudo.usama@gmail.com](mailto:pseudo.usama@gmail.com)
 
