@@ -42,7 +42,6 @@ You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-bl
 
 ## :hammer_and_wrench: Languages and Tools :
 
-### 🤖 ML
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
