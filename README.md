@@ -1,35 +1,39 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+<!-- Hey there! -->
+<h1>
+      Hey there!
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  <!-- Social links -->
- <div id="badges">
+ <div id="badges" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/usama-iftikhar-butt/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/9565432/pseudo">
-   <img src="https://img.shields.io/badge/-stackoverflow-f58025?style=for-the-badge&logo=stackoverflow&logoColor=white&color=f58025" alt="Stackoverflow Badge"/>
+  <a href="https://usama.bio">
+   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/UsamaIftikharB1">
    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/9565432/pseudo">
+   <img src="https://img.shields.io/badge/-stackoverflow-f58025?style=for-the-badge&logo=stackoverflow&logoColor=white&color=f58025" alt="Stackoverflow Badge"/>
+  </a>
  </div>
-
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=pseudo-usama&style=flat-square&color=blue" alt=""/>
-
-  <!-- Hey there! -->
-  <h1>
-      Hey there!
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
+
+  <!-- Profile views 
+  <img src="https://komarev.com/ghpvc/?username=pseudo-usama&style=flat-square&color=blue" alt=""/>
+-->
+
+<!--
 <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+-->
 
-
----
 
 ## :man_student: About Me :
 As a Machine learning professional, I bring expertise in Generative modeling and Computer Vision. My forte lies in fine-tuning existing machine learning tools such as Stable Diffusion, transformers and Yolo. I possess a proven track record of delivering innovative and efficient solutions.
@@ -38,6 +42,8 @@ You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-bl
 
 
 <!-- Tools & technologies -->
+
+<!--
 ---
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -49,11 +55,11 @@ You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-bl
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <!--  keras -->
- <!--  matplotlib -->
- <!--  sklearn  -->
+ keras
+ matplotlib
+ sklearn
 </div>
-
+-->
 <!--
 ### 🌐 Web development:
 <div>
@@ -70,13 +76,14 @@ You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-bl
 <!-- Stats -->
 
 ---
-
+<!--
 ### :fire: My Stats :
 
 <div>
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pseudo-usama&theme=dark&background=000000" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-usama&langs_count=8&theme=github_dark&layout=compact" />
 </div>
+-->
 
 <!--
  Source: https://www.sitepoint.com/github-profile-readme/
