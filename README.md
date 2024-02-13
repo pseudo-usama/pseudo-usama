@@ -36,7 +36,18 @@
 
 
 ## :man_student: About Me :
-As a Machine learning professional, I bring expertise in Generative modeling and Computer Vision. My forte lies in fine-tuning existing machine learning tools such as Stable Diffusion, transformers and Yolo. I possess a proven track record of delivering innovative and efficient solutions.
+<p className="text-xl">
+                I am a Machine Learning professional with expertise
+                in <u>Generative Modeling</u>, specializing
+                in <u>Natural Language</u> and <u>Computer Vision</u>.
+                I specialize in fine-tuning existing machine learning tools,
+                including <u>GPT-3</u>, <u>BERT</u>, <u>Stable Diffusion</u>, <u>transformers</u> and <u>YOLO</u>.
+                I have a proven track record of delivering innovative and efficient solutions,
+                such as improving sentiment analysis using GPT-3,
+                optimizing image recognition with YOLO and
+                enhancing text classification with BERT.
+            </p>
+
 ### Contact me:
 You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usama-iftikhar-butt/) or mail me at [pseudo.usama@gmail.com](mailto:pseudo.usama@gmail.com)
 
