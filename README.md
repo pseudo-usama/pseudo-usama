@@ -36,12 +36,12 @@
 
 
 ## :man_student: About Me :
-<p className="text-xl">
+<p>
                 I am a Machine Learning professional with expertise
-                in <u>Generative Modeling</u>, specializing
-                in <u>Natural Language</u> and <u>Computer Vision</u>.
+                in <ins>Generative Modeling</ins>, specializing
+                in <ins>Natural Language</ins> and <ins>Computer Vision</ins>.
                 I specialize in fine-tuning existing machine learning tools,
-                including <u>GPT-3</u>, <u>BERT</u>, <u>Stable Diffusion</u>, <u>transformers</u> and <u>YOLO</u>.
+                including <ins>GPT-3</ins>, <ins>BERT</ins>, <ins>Stable Diffusion</ins>, <ins>transformers</ins> and <ins>YOLO</ins>.
                 I have a proven track record of delivering innovative and efficient solutions,
                 such as improving sentiment analysis using GPT-3,
                 optimizing image recognition with YOLO and
