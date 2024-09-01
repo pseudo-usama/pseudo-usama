@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/usama-iftikhar-butt/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://usama.bio">
+  <a href="https://theusama.com">
    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/UsamaIftikharB1">
@@ -49,7 +49,7 @@
             </p>
 
 ### Contact me:
-You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usama-butt/) or mail me at [pseudo.usama@gmail.com](mailto:pseudo.usama@gmail.com)
+You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usama-butt/) or mail me at [pseudo.usama@gmail.com](mailto:hello@theusama.com)
 
 
 <!-- Tools & technologies -->
