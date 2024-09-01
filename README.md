@@ -49,7 +49,7 @@
             </p>
 
 ### Contact me:
-You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usama-butt/) or mail me at [pseudo.usama@gmail.com](mailto:hello@theusama.com)
+You can contact me via [![Linkedin Badge](https://img.shields.io/badge/-Usama-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usama-butt/) or mail me at [hello@theusama.com](mailto:hello@theusama.com)
 
 
 <!-- Tools & technologies -->
